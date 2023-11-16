@@ -1,0 +1,4 @@
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.AssemblyInfo.cs
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.csproj.CoreCompileInputs.cache
