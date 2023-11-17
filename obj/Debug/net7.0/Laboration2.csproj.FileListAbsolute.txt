@@ -2,3 +2,13 @@ C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboratio
 C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.AssemblyInfoInputs.cache
 C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.AssemblyInfo.cs
 C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\bin\Debug\net7.0\Laboration2.exe
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\bin\Debug\net7.0\Laboration2.deps.json
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\bin\Debug\net7.0\Laboration2.runtimeconfig.json
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\bin\Debug\net7.0\Laboration2.dll
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\bin\Debug\net7.0\Laboration2.pdb
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.dll
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\refint\Laboration2.dll
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.pdb
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\Laboration2.genruntimeconfig.cache
+C:\Users\Filip\source\repos\GIK299_Labb2_Filip_Strand\obj\Debug\net7.0\ref\Laboration2.dll
