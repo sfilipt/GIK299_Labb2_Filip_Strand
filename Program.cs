@@ -36,7 +36,6 @@
                                 {
                                     Console.WriteLine($"Vad heter familjemedlem {i + 1}?");
                                     familyNames[i] = Console.ReadLine();
-                                    Console.WriteLine(familyNames.Length);
                                     Console.WriteLine($"Hur gammal är {familyNames[i]}?");
                                     familyAges[i] = Convert.ToDouble(Console.ReadLine());
                                 }
