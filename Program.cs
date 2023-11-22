@@ -27,8 +27,6 @@
                     switch (menuChoice)
                      
                     {
-                        // Array.Clear har lagts in i början av case 1 för att om användaren kör programmet flera gånger och väljer alternativ 1 igen
-                        // så vill jag att familjemedlemmars ålder ska lagras i en tom array, inte läggas på de värden som redan fanns lagrade.  
                         case 1:
                             Console.WriteLine("Hur många familjemedlemmar vill du mata in i programmet?");
                             numberOfFamilyMembers = int.Parse(Console.ReadLine());
@@ -53,7 +51,8 @@
                                     Console.WriteLine($"{familyNames[i]} \n");
                             }
                             break;
-                            // Precis som i case 1 finns en sats tilldelar variabeln sumOfAges värdet 0 för varje gång case 3 körs. 
+                            // Jag har lagt in en sats som tilldelar variablen sumOfAges värdet 0 varje gång detta case körs, detta är för att om användaren väljer
+                            // 1 i menyn igen och lägger in nya familjemedlemmar i programmet så behöver denna variabel nollställas för att summan av åldrarna ska bli rätt.
                         case 3:
                             if (numberOfFamilyMembers == 0)
                                 Console.WriteLine("\n Du har inte lagt till några familjemedlemmar än. Välj 1 i menyn för att lägga till familjemedlemmar \n");
@@ -67,7 +66,8 @@
                                 Console.WriteLine($"\n Summan av de familjemedlemmar du har angivit är: {sumOfAges:#} \n");
                             }
                             break;
-                        // Precis som i case 1 finns en sats tilldelar variabeln meanOfAges värdet 0 för varje gång case 4 körs. 
+                        // Jag har lagt in en sats som tilldelar variablen meanOfAges värdet 0 varje gång detta case körs, detta är för att om användaren väljer
+                        // 1 i menyn igen och lägger in nya familjemedlemmar i programmet så behöver denna variabel nollställas för att medelåldern ska bli rätt.
                         case 4:
                             if (numberOfFamilyMembers == 0)
                                 Console.WriteLine("\n Du har inte lagt till några familjemedlemmar än. Välj 1 i menyn för att lägga till familjemedlemmar \n");
